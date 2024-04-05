@@ -1,2 +1,2 @@
 # files
-Files host
+temp files storage to get straight links.
